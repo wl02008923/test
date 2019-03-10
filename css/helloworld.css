@@ -1,0 +1,17 @@
+h1{
+    color:red;
+}
+
+p{
+    font-size: 18px;
+    font-weight: 900;
+    width: 300px;
+}
+
+body{
+    background-image: url('https://www.hanstravel.com.tw/uploads/_blog/antarctica/DSC_1785.jpg');
+}
+
+#profile{
+    display: none;
+}
